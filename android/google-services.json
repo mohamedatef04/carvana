@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987214531235",
+    "project_id": "carvana-f84e1",
+    "storage_bucket": "carvana-f84e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987214531235:android:12318abdef271ed4d58d16",
+        "android_client_info": {
+          "package_name": "com.example.carvana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0aQcdq2PWlEkRz6IZGZQ4PJ5xGfABLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
