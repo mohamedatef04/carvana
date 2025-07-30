@@ -81,10 +81,7 @@ void main() async {
   setupGetIt();
 
   runApp(
-    DevicePreview(
-      enabled: true,
-      builder: (context) => const Carvana(),
-    ),
+    const Carvana(),
   );
 }
 
@@ -98,8 +95,6 @@ class Carvana extends StatelessWidget {
       minTextAdapt: true,
       child: MaterialApp.router(
         routerConfig: router,
-        locale: DevicePreview.locale(context),
-        builder: DevicePreview.appBuilder,
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           brightness: Brightness.dark,
