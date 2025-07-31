@@ -28,7 +28,7 @@
 
   -Database: stores user information (name, email, profile image URL).
 
-  -Storage: uploads and retrieves user profile images and product images for dashboard
+  -Storage: uploads and retrieves user profile images and car images
 
   -fcm Push Notifications
 
